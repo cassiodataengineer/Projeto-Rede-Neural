@@ -153,11 +153,3 @@ Este projeto é distribuído sob a licença MIT. Consulte o arquivo `LICENSE` pa
 - [TensorFlow Guides](https://www.tensorflow.org/guide)
 - [Deep Learning Book - Ian Goodfellow et al.](https://www.deeplearningbook.org/)
 
-## Autor
-
-**Manus AI**
-
-Este README foi gerado e aprimorado automaticamente por Manus AI, um agente de inteligência artificial, com base na análise do notebook Jupyter `Projeto_Elaboração_de_uma_Rede_Neural.ipynb` e exemplos fornecidos.
-
-
-
